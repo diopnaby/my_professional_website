@@ -1,0 +1,106 @@
+.resume {
+  position: relative;
+  margin-bottom: 100px;
+  padding: 150px 0;
+
+  @include desktop {
+    margin-bottom: 40px;
+    padding: 100px 0;
+  }
+
+  &__background {
+    background: #183b45;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: skewY(-2deg);
+  }
+
+  &__heading {
+    margin-right: 100px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 150px;
+    color: #ffffff;
+
+    @include desktop {
+      margin-right: 0;
+      margin-bottom: 30px;
+    }
+
+    h1,
+    h2,
+    h3 {
+      color: #ffffff;
+    }
+
+    p {
+      color: #e0ebed;
+    }
+
+    span {
+      color: #d4a84b;
+
+      &::before {
+        background: #d4a84b;
+      }
+    }
+
+    a {
+      color: #ffffff;
+
+      &:focus-visible {
+        outline: 2px solid #d4a84b;
+        outline-offset: 4px;
+      }
+    }
+  }
+
+  &__education {
+    &_item {
+      background: #ffffff;
+      padding: 30px;
+      border-radius: 20px;
+      margin-bottom: 30px;
+      border-bottom: 3px solid #d4a84b;
+      box-shadow: 0 20px 40px rgba(20, 125, 130, 0.12);
+      color: #5f6b70;
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        color: #183b45;
+      }
+
+      a {
+        color: #147d82;
+        text-decoration: underline;
+
+        &:hover {
+          color: #183b45;
+        }
+
+        &:focus-visible {
+          outline: 2px solid #147d82;
+          outline-offset: 4px;
+        }
+      }
+
+      span {
+        display: block;
+        margin: 0 0 20px 30px;
+        position: relative;
+        color: #147d82;
+
+        &::before {
+          background: #d4a84b;
+        }
+      }
+    }
+  }
+}

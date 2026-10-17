@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: My Skills
+content: |
+  ## Here's where I can help
+
+  I combine applied mathematics, statistics, and programming to solve business problems. Using R, Python, SQL, Pandas, and Polars, I build data pipelines, statistical models, interactive dashboards, and web applications, with interests in forecasting, survival analysis, and credit risk.
+
+image: images/hero/naby_pic.JPG
+
+skill:
+  - title: R & Tidyverse
+    percent: 90
+  - title: Python, Pandas & Polars
+    percent: 90
+  - title: SQL & Data Pipelines
+    percent: 85
+  - title: Statistics & Machine Learning
+    percent: 85
+  - title: Shiny, Plotly & Flask
+    percent: 85
+---

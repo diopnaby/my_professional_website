@@ -1,0 +1,14 @@
+---
+enable: true
+topTitle: Data Scientist
+content: >
+  # Hi I'm Naby
+
+  Naby is a data-driven finance and strategy leader who transforms raw banking data into high-impact institutional assets. As Head of Strategy & Financing at ELMA Group, I design financial frameworks and build custom tech tools—like Flask and Python applications—to scale our pan-African footprint.
+  Leveraging a Master’s in Statistics, I engineer automated Python, R, and SQL workflows that translate complex credit-risk methodologies into compliant Global Emerging Markets (GEMs) submissions, bridging Risk, Finance, and IT to power auditable executive decisions.
+buttonName: Contact Naby
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/naby_pic.JPG
+videoThumb: images/hero/data-science.gif
+videoURL:

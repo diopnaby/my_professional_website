@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Testimonials
+title: |
+  ## What Clients & Collaborators Say
+
+testimonial:
+  - name: "Amidou Cisse"
+    title: "Responsable d’Application Salesforce"
+    image: "/images/testimonial/paby.jpeg"
+    comment: >-
+      L’accompagnement de Naby sur les fondamentaux de la modélisation
+      des données m’a permis de progresser rapidement et d’obtenir la
+      certification Salesforce Data 360. Ces acquis m’ont également
+      aidé à approfondir mon travail sur les projets d’intelligence
+      artificielle de Salesforce, notamment dans la valorisation des
+      données et l’intégration de nouvelles solutions d’IA.
+    star: 5
+

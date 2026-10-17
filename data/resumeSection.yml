@@ -1,0 +1,72 @@
+---
+enable: true
+topTitle: My Resume
+title: |
+  ## My Experience & Education
+
+  Combining mathematics, statistics, and software development to turn data into practical business solutions.
+
+buttonName: "Download Resume PDF"
+buttonTarget: "/cv/resume-naby.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+experience:
+  - content: |
+      ### Head of Strategy & Financing – Data Strategy Lead
+
+      #### ELMA Group
+
+      - Develop financial models to simulate cash flows, assess risks, and evaluate funding scenarios.
+
+      - Design dashboards to monitor KPIs supporting digital platforms, a cultural TV channel, and a pan-African book fair.
+
+      - Built and deployed a custom Flask website and administration platform, enabling independent management of books, collections, blog posts, and company information.
+    time: "2024–Present"
+
+  - content: |
+      ### Freelance Data Scientist
+
+      #### Independent Projects & Client Engagements
+
+      - Develop Python and SQL pipelines to clean, transform, and standardize data for analysis and reporting.
+
+      - Build interactive analytical applications using R, Shiny, and Plotly, including agricultural forecasting and survival analysis dashboards.
+
+      - Develop data extraction and validation workflows aligned with Global Emerging Markets (GEMs) reporting requirements.
+    time: "2023–Present"
+
+education:
+  - content: |
+      #### Master’s in Applied Mathematics & Statistics
+
+      Hunter College, City University of New York
+    time: "2020"
+
+  - content: |
+      #### Business Data Science Certificate
+
+      Business Science University
+    time: "2026"
+
+  - content: |
+      #### Basic Credit Risk Modeling for Basel/IFRS 9 Using R, Python, and SAS
+
+      BlueCourses
+    time: "2026"
+
+  - content: |
+      #### Bachelor’s in Statistics
+
+      Hunter College, City University of New York
+    time: "2020"
+
+  - content: |
+      #### Bachelor’s in Mathematics
+
+      Cheikh Anta Diop University (UCAD), Dakar
+    time: "2015"
+---

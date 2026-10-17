@@ -1,0 +1,42 @@
+baseURL: /
+languageCode: en-us
+paginate: 6
+theme: portio-hugo-data-science
+title: Naby's Data Science Portfolio
+menu:
+  main:
+    - name: Home
+      url: '#home'
+      weight: 1
+    - name: About
+      url: '#about'
+      weight: 2
+    - name: Portfolio
+      url: '#portfolio'
+      weight: 4
+    - name: Resume
+      url: '#resume'
+      weight: 5
+    - name: Blog
+      url: blog
+      weight: 6
+  sitemap:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Blog
+      url: blog
+      weight: 2
+params:
+  blogPageURL: blog
+  contactButtonLabel: Contact Naby
+  contactLink: '#contact'
+  copyright: All right reserved copyright © Naby Diop 2026
+  footerLogo: images/site-navigation/naby_logo2.png
+  formspreeURL: YOUR FORMSPREE URL
+  googleAnalytics: YOUR GOOGLE ANALYTICS CODE
+  logo: images/site-navigation/naby_logo2.png
+  social:
+    - icon: fa-linkedin-square
+      url: www.linkedin.com/in/nabydiop07
+      weight: 1

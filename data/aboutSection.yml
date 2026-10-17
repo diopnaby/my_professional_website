@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Naby?
+
+  Naby Diop is a business-forward problem solver with over 5+ years of experience working with companies from all over the world.
+content: >
+  ### I design and build awesome data science products.
+
+  I am driven by a passion for learning, mathematics, and data science, and I enjoy turning complex problems into practical solutions. My curiosity keeps me studying, building projects, and finding new ways to use technology to create opportunities for others. Outside my professional pursuits, I serve as president of ASC Jambar, a community sports association in Sédhiou, Senegal, where I support young people through football and teamwork. Family and friendship are central to my life, grounding me in loyalty, generosity, and a strong sense of responsibility to those around me.
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: www.linkedin.com/in/nabydiop07/
+button2Target: "/cv/resume-matt.pdf"
+image: images/hero/naby_pic.JPG
+imageMaskPosition: 70px 0px

@@ -3,8 +3,8 @@
 //
 
 // General
-$primary: #147d82;   // Teal
-$secondary: #183b45; // Deep blue-green
+$primary: #147d82;
+$secondary: #183b45;
 
 // Text
 $headings-color: #183b45;
@@ -18,10 +18,10 @@ $gold: #d4a84b;
 //
 
 // Fonts
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900|Yeseva+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
 
-$font-family-base: "Poppins", sans-serif;
-$headings-font-family: "Yeseva One", cursive;
+$font-family-base: "Inter", "Segoe UI", sans-serif;
+$headings-font-family: Georgia, "Times New Roman", serif;
 
 // Size
 $font-size-base: 1.125rem; // 18px

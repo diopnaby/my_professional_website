@@ -12,6 +12,6 @@ content: >
 button1Name: LinkedIn
 button2Name: Download CV
 button1Target: www.linkedin.com/in/nabydiop07/
-button2Target: "/cv/resume-matt.pdf"
+button2Target: "/cv/resume-naby.pdf"
 image: images/hero/naby_pic.JPG
 imageMaskPosition: 70px 0px

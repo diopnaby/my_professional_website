@@ -38,5 +38,5 @@ params:
   logo: images/site-navigation/naby_logo2.png
   social:
     - icon: fa-linkedin-square
-      url: www.linkedin.com/in/nabydiop07
+      url: https://www.linkedin.com/in/nabydiop07
       weight: 1

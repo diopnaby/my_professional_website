@@ -5,6 +5,25 @@ title: |
   ## What Clients & Collaborators Say
 
 testimonial:
+  - name: "Matt Dancho"
+    title: "Lead Data Science Educator at Business Science University"
+    image: "/images/testimonial/matt.jpeg"
+    comment: >-
+      I had the pleasure of working with Naby as part of an accelerated data
+      science program that has focused on applying data science to business.
+      I am confident that Naby will be an excellent fit for
+      data science positions that involve challenging
+      business problems and a desire to make better
+      business decisions.
+    star: 5
+  - name: "El Hadji Omar Massaly"
+    title: "Président Fondateur ELMA GROUP"
+    image: "/images/testimonial/omar.png"
+    comment: >-
+      En tant que Head of Strategy and Financin, Data Strategy Lead a ELMA, il a fait preuve d'une 
+      vision stratégique exceptionnelle. Son excellence dans l'analyse des données et sa rigueur dans le pilotage 
+      financier ont considérablement renforcé notre performance. Un leader compétent, fiable et résolument orienté résultat.
+    star: 5
   - name: "Amidou Cisse"
     title: "Responsable d’Application Salesforce"
     image: "/images/testimonial/paby.jpeg"
@@ -16,12 +35,5 @@ testimonial:
       artificielle de Salesforce, notamment dans la valorisation des
       données et l’intégration de nouvelles solutions d’IA.
     star: 5
-  - name: "El Hadji Omar Massaly"
-    title: "Président Fondateur ELMA GROUP"
-    image: "/images/testimonial/omar.png"
-    comment: >-
-      En tant que Head of Strategy and Financin, Data Strategy Lead a ELMA, il a fait preuve d'une 
-      vision stratégique exceptionnelle. Son excellence dans l'analyse des données et sa rigueur dans le pilotage 
-      financier ont considérablement renforcé notre performance. Un leader compétent, fiable et résolument orienté résultat.
-    star: 5
+  
 
